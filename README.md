@@ -44,7 +44,7 @@ please change the contents of the file as below
 
 ```python
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
 ```
 
 ------------------
